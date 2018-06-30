@@ -1,0 +1,9 @@
+{
+  "name": "react_boiler",
+  "version": "1.0.0",
+  "description": "Useful boilerplate to get started developing with React and JSX.",
+  "main": "index.js",
+  "repository": "git@github.com:Davideb94/React-setup.git",
+  "author": "Davide Brunetti <davide.brunetti@edu.unito.it>",
+  "license": "MIT"
+}
