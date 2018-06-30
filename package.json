@@ -6,6 +6,11 @@
   "repository": "git@github.com:Davideb94/React-setup.git",
   "author": "Davide Brunetti <davide.brunetti@edu.unito.it>",
   "license": "MIT",
+
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+
   "dependencies": {
     "html-webpack-plugin": "^3.2.0",
     "path": "^0.12.7",
